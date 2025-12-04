@@ -1,0 +1,26 @@
+.custom-tooltip {
+    position: absolute;
+    top: 100%;
+    left: 10px;
+    z-index: 1000;
+    width: 300px;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-size: 0.875rem;
+    line-height: 1.4;
+    text-align: left;
+    white-space: normal;
+}
+
+/* Ensure the table header matches the image (light gray background) */
+.table thead th {
+    background-color: #f8f9fa;
+    font-size: 0.85rem;
+    color: #000;
+    font-weight: 700;
+}
+
+.table tbody td {
+    font-size: 0.85rem;
+}
