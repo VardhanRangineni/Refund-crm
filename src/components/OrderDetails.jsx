@@ -165,7 +165,7 @@ const OrderDetails = () => {
                                         <td className="py-3 text-center">OTGXXXXX-Vardhan R</td>
                                         <td className="py-3 text-center">Nov 21, 2025 17:13</td>
                                         <td className="py-3 text-center"> OTGXXXXX-Sandeep G</td>
-                                        <td className="py-3 text-center">Nov 21, 2025 17:13</td>
+                                        <td className="py-3 text-center">Nov 21, 2025 18:23</td>
                                     </tr>
 
                                 </tbody>
