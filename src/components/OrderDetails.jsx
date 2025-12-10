@@ -220,6 +220,44 @@ const OrderDetails = () => {
                                 </tbody>
                             </table>
                         </div>
+
+
+                        <br></br>
+
+
+                        {/* Edit Table */}
+                        <div>
+                            <h6>Edit Details</h6>
+                        </div>
+
+                        <div className="bg-white border rounded overflow-hidden">
+                            <table className="table mb-0 align-middle">
+                                <thead className="bg-light">
+                                    <tr>
+                                        <th className="border-bottom-0 py-3">Product Name</th>
+                                        <th className="border-bottom-0 py-3 text-center">Ordered Quantity</th>
+                                        <th className="border-bottom-0 py-3 text-center">Edited Quantity</th>
+                                        <th className="border-bottom-0 py-3 text-center">Edited By</th>
+                                        <th className="border-bottom-0 py-3 text-center">Edited Date</th>
+                                        <th className="border-bottom-0 py-3 text-center">Approved By</th>
+                                        <th className="border-bottom-0 py-3 text-center">Approved Date</th>
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td className="py-3">INTALITH CR 450MG TAB</td>
+                                        <td className="py-3 text-center">200</td>
+                                        <td className="py-3 text-center">90</td>
+                                        <td className="py-3 text-center">OTGXXXXX-Vardhan R</td>
+                                        <td className="py-3 text-center">2025-12-10</td>
+                                        <td className="py-3 text-center"> OTGXXXXX-Sandeep G</td>
+                                        <td className="py-3 text-center">2025-12-10</td>
+                                    </tr>
+
+                                </tbody>
+                            </table>
+                        </div>
                     </div>
                 </div>
             </div>
